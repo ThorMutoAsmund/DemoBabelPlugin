@@ -1,0 +1,14 @@
+Paper 0
+Pen 100
+Line 0 0 0 50
+LineTo 50 50
+LineTo 50 0
+LineTo 0 0
+
+Square: x0 y0 x1 y1
+	Line x0 y0 x0 y1
+	LineTo x1 y1
+	LineTo x1 y0
+	LineTo x0 y0
+
+Square 10 10 40 40
